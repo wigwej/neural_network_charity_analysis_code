@@ -17,12 +17,14 @@ Our goal is to create a binary classifier that is capable of predicting whether 
 **Compiling, Training and Evaluation**
 
 * I selected a varied number. At first I seleced 2 neurons and,
-Hidden noee=1 = 2neurons
+Hidden node=1 = 2neurons
 Hidden node 2 =3 neirons
 Activation = 'Relu'
 
 * I achieved appoximately 73%
 
-* I changed the activation
+* To increase model performance, I
+*   changed the number of neurons across both layers 
+*   added hidden layersto increase 
 
 ***Summary***
