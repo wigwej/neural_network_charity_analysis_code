@@ -28,3 +28,4 @@ Activation = 'Relu'
 *   added hidden layersto increase 
 
 ***Summary***
+The binary classifer was approximately 73% accurate but with a loss of about 50% ( too high). We need to increase the total number of parameters in particular trainable parameters for better results/
